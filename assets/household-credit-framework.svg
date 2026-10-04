@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="560" viewBox="0 0 960 560" role="img" aria-labelledby="title desc">
+  <title id="title">Public insurance, borrower regulation, and household credit</title>
+  <desc id="desc">Conceptual overview of panel evidence from 20 European countries between 2000 and 2019. Public insurance and recorded borrower regulation provide the institutional context for studying the relationship between household credit and saving. The evidence is associational.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 8 4 0 8" fill="none" stroke="#8a9199" stroke-width="1.4"/></marker>
+    <style>.sans{font-family:Arial,Helvetica,sans-serif}.serif{font-family:Georgia,'Times New Roman',serif}.label{font-size:19px;font-weight:700;letter-spacing:1px}.body{font-size:18px;fill:#545960}.icon{fill:none;stroke:#465362;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round}</style>
+  </defs>
+  <rect width="960" height="560" fill="#fff"/>
+  <text x="34" y="43" class="sans label" fill="#c41e3a">HOUSEHOLD FINANCE &amp; PUBLIC INSTITUTIONS</text>
+  <text x="34" y="82" class="serif" font-size="29" fill="#171717">Credit and saving in European welfare states</text>
+  <path d="M34 103H926" stroke="#d9dde1"/>
+
+  <rect x="34" y="137" width="250" height="319" rx="7" fill="#f4f6f8" stroke="#c7cfd8"/>
+  <rect x="355" y="137" width="250" height="144" rx="7" fill="#f8f5ee" stroke="#d6cbb7"/>
+  <rect x="355" y="312" width="250" height="144" rx="7" fill="#eef5f3" stroke="#bed1ca"/>
+  <rect x="676" y="137" width="250" height="319" rx="7" fill="#faf5f6" stroke="#d9c4ca"/>
+
+  <g class="icon" transform="translate(118 174)">
+    <rect x="0" y="13" width="81" height="67" rx="5" fill="#fff"/>
+    <path d="M0 32H81M19 5V22M62 5V22M16 47H27M36 47H47M57 47H68M16 63H27M36 63H47M57 63H68"/>
+  </g>
+  <g text-anchor="middle">
+    <text x="159" y="290" class="sans label" fill="#263444">PANEL EVIDENCE</text>
+    <text x="159" y="324" class="serif" font-size="19" fill="#263444">20 European countries</text>
+    <text x="159" y="355" class="serif" font-size="23" fill="#263444">2000–2019</text>
+    <text x="159" y="402" class="sans body">Household credit / GDP</text>
+    <text x="159" y="430" class="sans body">Household saving rate</text>
+  </g>
+
+  <g class="icon" transform="translate(375 166)">
+    <path d="M25 0 47 8V31C47 45 34 55 25 61 16 55 3 45 3 31V8Z" fill="#fff" stroke="#887455"/>
+    <path d="m13 29 9 9 16-19" stroke="#887455"/>
+  </g>
+  <text x="435" y="184" class="sans label" fill="#655337">PUBLIC</text>
+  <text x="435" y="210" class="sans label" fill="#655337">INSURANCE</text>
+  <text x="480" y="259" text-anchor="middle" class="sans" font-size="17" fill="#545960">Income-risk protection</text>
+
+  <g class="icon" transform="translate(376 334)">
+    <rect x="2" y="0" width="45" height="58" rx="4" fill="#fff" stroke="#497b6c"/>
+    <path d="m11 17 4 4 7-8M28 18H39m-28 17 4 4 7-8M28 36H39" stroke="#497b6c"/>
+  </g>
+  <text x="435" y="356" class="sans label" fill="#315f51">BORROWER</text>
+  <text x="435" y="382" class="sans label" fill="#315f51">REGULATION</text>
+  <text x="480" y="433" text-anchor="middle" class="sans" font-size="17" fill="#545960">Recorded mortgage rules</text>
+
+  <path d="M291 295H325V210H347M325 295V384H347" fill="none" stroke="#8a9199" stroke-width="2.5" marker-end="url(#arrow)"/>
+  <path d="M613 210H642V295H668M613 384H642V295" fill="none" stroke="#8a9199" stroke-width="2.5"/>
+  <path d="M647 295H668" stroke="#8a9199" stroke-width="2.5" marker-end="url(#arrow)"/>
+
+  <g class="icon" transform="translate(722 180)" stroke="#984152">
+    <path d="m0 36 29-25 29 25M8 31V71H49V31M24 71V48H35V71" fill="#fff" stroke="#984152"/>
+    <ellipse cx="111" cy="44" rx="26" ry="9" fill="#fff" stroke="#984152"/>
+    <path d="M85 44V71C85 83 137 83 137 71V44M85 58C85 70 137 70 137 58" stroke="#984152"/>
+    <path d="M66 51H77M71 46l6 5-6 5" stroke="#984152"/>
+  </g>
+  <g text-anchor="middle">
+    <text x="801" y="299" class="sans label" fill="#9e243d">CREDIT–SAVING</text>
+    <text x="801" y="325" class="sans label" fill="#9e243d">RELATIONSHIP</text>
+    <text x="801" y="370" class="serif" font-size="18" fill="#383336">Balance-sheet response</text>
+    <text x="801" y="402" class="sans body">Across institutional</text>
+    <text x="801" y="428" class="sans body">configurations</text>
+  </g>
+  <path d="M34 483H926" stroke="#d9dde1"/>
+  <text x="480" y="512" text-anchor="middle" class="sans" font-size="17" fill="#545960">Two-way fixed effects · Policy verification · Robustness checks</text>
+  <text x="480" y="539" text-anchor="middle" class="sans" font-size="16" fill="#9e243d" letter-spacing="1">ASSOCIATIONAL PANEL EVIDENCE</text>
+</svg>
